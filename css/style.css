@@ -12,6 +12,11 @@
     font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif
 }
 
+::selection {
+    background: #28211e;
+    color: #f0b29a;
+}
+
 * {
     box-sizing: border-box
 }
